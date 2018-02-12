@@ -17,16 +17,16 @@ Lunar lander will be a one page app that displays the lander, the environment, y
 ![wireframe](https://i.imgur.com/IehikxR.png)
 
 
-Architecture and Technologies
--Vanilla Javascript
--HTML5 Canvas
--Webpack
+## Architecture and Technologies
+- Vanilla Javascript
+- HTML5 Canvas
+- Webpack
 
 Surface.js will hold the environment
 
 Lander.js will hold the lander physics and controls
 
-Timeline
+## Timeline
 
 Day 1: 
 - [ ] Review and complete asteroids project to familiarize myself with canvas
@@ -41,7 +41,7 @@ Day 4:
 - [ ] Write landing logic
 
 Bonus features
--leaderboard
--sound
--enemies
--tougher obstacles/landing pads
+- leaderboard
+- sound
+- enemies
+- tougher obstacles/landing pads
