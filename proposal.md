@@ -6,13 +6,14 @@ Lunar Lander is a game in which players guide a control a vehicle and attempt to
 
 ### Functionality & MVP
 My lunar lander will include
-- gravity
--control over pitch of lander
--control over single thruster
--visible fuel meter
--introduction page or modal that explains how the game works
-Wireframes
+- [ ] gravity
+- [ ] control over pitch of lander
+- [ ] control over single thruster
+- [ ] visible fuel meter
+- [ ] introduction page or modal that explains how the game works
+### Wireframes
 Lunar lander will be a one page app that displays the lander, the environment, your score, and a fuel gauge. The top will include github and linkedin links as well as a link to a page or modal that explains the game.
+
 ![wireframe](https://i.imgur.com/IehikxR.png)
 
 
@@ -28,16 +29,16 @@ Lander.js will hold the lander physics and controls
 Timeline
 
 Day 1: 
-Review and complete asteroids project to familiarize myself with canvas
+- [ ] Review and complete asteroids project to familiarize myself with canvas
 
 Day 2:
-Get physics working for lander
+- [ ] Get physics working for lander
 
 Day 3: 
-Create and environment and collision logic
+- [ ] Create and environment and collision logic
 
 Day 4: 
-Write landing logic
+- [ ] Write landing logic
 
 Bonus features
 -leaderboard
