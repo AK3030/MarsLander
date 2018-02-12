@@ -2,10 +2,9 @@
 
 ### Background and Overview
 
-Lunar Lander is a game in which players guide a control a vehicle and attempt to safely land it on various platforms. The player has control of the angle of the vehicle and one thruster to guide its descent. The game starts with the lander already in the air and flat sections of ground with score multipliers visible. In addition to guiding the lander to a safe landing the user must also make sure that the player does not run out of fuel before landing.
+Lunar Lander is a game in which players guide a vehicle and attempt to safely land it on different surfaces. The player has control of the angle of the vehicle and one thruster to guide its descent. The game starts with the lander already in the air and flat sections of ground with score multipliers visible. In addition to guiding the lander to a safe landing the user must also make sure that the player does not run out of fuel before landing.
 
 ### Functionality & MVP
-My lunar lander will include
 - [ ] gravity
 - [ ] control over pitch of lander
 - [ ] control over single thruster
