@@ -10,7 +10,7 @@ My lunar lander will include
 -visible fuel meter
 -introduction page or modal that explains how the game works
 
-link here
+[wireframe](https://i.imgur.com/BXAtT4q.png)
 
 
 Architecture and Technologies
