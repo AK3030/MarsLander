@@ -22,9 +22,9 @@ Lunar lander will be a one page app that displays the lander, the environment, y
 - HTML5 Canvas
 - Webpack
 
-Surface.js will hold the environment
+`Surface.js` will hold the environment
 
-Lander.js will hold the lander physics and controls
+`Lander.js` will hold the lander physics and controls
 
 ## Timeline
 
