@@ -29,14 +29,15 @@ Lunar lander will be a one page app that displays the lander, the environment, y
 
 Day 1: 
 - [ ] Review and complete asteroids project to familiarize myself with canvas
-- [ ] Get gravity working
-- [ ] start lander thruster
 
-Day 2:
-- [ ] finish thruster physics and controls
-- [ ] start collision logic
+
+Day 2
+- [ ] Get gravity working
+- [ ] get vertical functionality working (physics and controls)
 
 Day 3: 
+- [ ] rotate lander functionality
+- [ ] start collision logic
 - [ ] finish collision logic
 - [ ] Write landing logic
 
