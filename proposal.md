@@ -32,6 +32,7 @@ Day 1:
 
 
 Day 2
+- [ ] display static ship on canvas
 - [ ] Get gravity working
 - [ ] get vertical functionality working (physics and controls)
 
