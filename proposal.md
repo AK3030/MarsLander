@@ -38,8 +38,7 @@ Day 2
 
 Day 3: 
 - [ ] rotate lander functionality
-- [ ] start collision logic
-- [ ] finish collision logic
+- [ ] collision logic
 - [ ] Write landing logic
 
 Day 4: 
