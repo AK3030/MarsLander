@@ -27,21 +27,21 @@ Lunar lander will be a one page app that displays the lander, the environment, y
 
 ## Timeline
 
-Day 1: 
-- [ ] Review and complete asteroids project to familiarize myself with canvas
+Day 1:
+- [X] Review and complete asteroids project to familiarize myself with canvas
 
 
 Day 2
-- [ ] display static ship on canvas
-- [ ] Get gravity working
-- [ ] get vertical functionality working (physics and controls)
+- [X] display static ship on canvas
+- [X] Get gravity working
+- [X] get vertical functionality working (physics and controls)
 
-Day 3: 
-- [ ] rotate lander functionality
+Day 3:
+- [X] rotate lander functionality
 - [ ] collision logic
 - [ ] Write landing logic
 
-Day 4: 
+Day 4:
 - [ ] finish landing logic
 - [ ] add fuel meter and score
 
