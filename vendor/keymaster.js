@@ -234,5 +234,3 @@
   if(typeof module !== 'undefined') module.exports = key;
 
 })(this);
-
-console.log("hello");
