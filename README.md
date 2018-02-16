@@ -1,3 +1,3 @@
-# LunarLander
+# MarsLander
 
 [Live](https://ak3030.github.io/MarsLander/)
