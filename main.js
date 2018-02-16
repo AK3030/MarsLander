@@ -1,8 +1,13 @@
 import Game from "./lib/game";
 
 const canvasEl = document.getElementsByTagName("canvas")[0];
-canvasEl.height = window.innerHeight;
-canvasEl.width = window.innerWidth;
+
+canvasEl.height = 1000;
+canvasEl.width = 1000;
+
+
+
+
 
 
 new Game(
