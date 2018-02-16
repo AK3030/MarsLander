@@ -38,12 +38,12 @@ Day 2
 
 Day 3:
 - [X] rotate lander functionality
-- [ ] collision logic
-- [ ] Write landing logic
+- [X] collision logic
+- [X] Write landing logic
 
 Day 4:
-- [ ] finish landing logic
-- [ ] add fuel meter and score
+- [X] finish landing logic
+- [X] add fuel meter and score
 
 Bonus features
 - leaderboard
