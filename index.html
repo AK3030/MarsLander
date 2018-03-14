@@ -5,9 +5,36 @@
     <title>Mars Lander</title>
   </head>
   <body>
-    <canvas></canvas>
+    <canvas class="game-canvas"></canvas>
   </body>
   <script src="vendor/keymaster.js"></script>
   <script src="./lib/bundle.js"></script>
+  <style>
+  .instructions {
+    font-family: monospace;
+    text-align: center;
+    color: green;
+
+  }
+
+  .game-canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  </style>
+  <div class="instructions">
+    <div class="general-instructions">
+      Guide the lander to the red landing spots with the arrow keys.
+    </div>
+    <div class="key-descriptions">
+      Press the up arrow key to fire the thruster and the side arrow keys to change the pitch of the lander.
+    </div>
+  </div>
 
 </html>
